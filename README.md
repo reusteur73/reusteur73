@@ -1,16 +1,14 @@
 ### Hi there 👋
+- 🌐 [Website](https://reusteur.org)
+- 🔭 I’m currently working on few python projects
+- 📫 How to reach me: kahlumba@protonmail.com
+<br>
 
-<!--
-**reusteur73/reusteur73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My best repository 🌎
+- 🕹️ [Python League of Legends queue acceptor bot](https://github.com/reusteur73/Python-queue-Acceptor-LoL-compiled) 
+- 🦠 [Covid figures at the start of the second wave in New Caledonia](https://reusteur73.github.io/reusteur.org/) 
+- 🔐 [Folder of image encryption using python](https://github.com/reusteur73/image-folder-encryption)
+<br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Github Stats 📈
+[![](https://github-readme-stats.vercel.app/api?username=reusteur73&theme=radical)]()
