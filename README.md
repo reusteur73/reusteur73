@@ -4,7 +4,7 @@
 - 📫 How to reach me: kahlumba@protonmail.com
 <br>
 
-### My best repository 🌎
+### My best repositories 🌎
 - 🕹️ [Python League of Legends queue acceptor bot](https://github.com/reusteur73/Python-queue-Acceptor-LoL-compiled) 
 - 🦠 [Covid figures at the start of the second wave in New Caledonia](https://reusteur73.github.io/reusteur.org/) 
 - 🔐 [Folder of image encryption using python](https://github.com/reusteur73/image-folder-encryption)
